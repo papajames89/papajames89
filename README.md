@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @papajames89
-- 👀 I’m interested in: Junior Frontend Developer
+- 👀 I’m interested in:
 - 🌱 I’m currently learning: JS, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/grzegorz-rzeszut/
