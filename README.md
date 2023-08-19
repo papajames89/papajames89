@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @papajames89
-- 👀 I’m interested in: Frontend Developer
-- 🌱 I’m currently learning: JS
+- 👀 I’m interested in: Mobile Developer
+- 🌱 I’m currently learning: .NET MAUI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/grzegorz-rzeszut/
 
